@@ -1,6 +1,8 @@
 numpy
 pandas
+imblearn
 scikit-learn
+xgboost
 matplotlib
 seaborn
 notebook
